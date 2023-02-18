@@ -15,6 +15,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [ChartJS in React](https://medium.com/@matheshyogeswaran/chartjs-in-react-dbc185263321?source=rss-505ef1b70e94------2)
 - [Linked List](https://towardsdev.com/linked-list-7b58728b740a?source=rss-505ef1b70e94------2)
 - [Open Street Map &lpar;OSM&rpar; with React and get the current location](https://towardsdev.com/open-street-map-osm-with-react-and-get-the-current-location-c2c80408b1bb?source=rss-505ef1b70e94------2)
 - [GitHub public repository listing app](https://medium.com/@matheshyogeswaran/github-public-repository-listing-app-a7a5ebb6e9ce?source=rss-505ef1b70e94------2)
