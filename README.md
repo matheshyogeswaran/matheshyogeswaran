@@ -15,6 +15,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Display a List of GitHub Commit Messages and Contributor Commit Graph in a React App](https://medium.com/@matheshyogeswaran/how-to-display-a-list-of-github-commit-messages-and-contributor-commit-graph-in-a-react-app-92a78284447f?source=rss-505ef1b70e94------2)
 - [ChartJS in React](https://medium.com/@matheshyogeswaran/chartjs-in-react-dbc185263321?source=rss-505ef1b70e94------2)
 - [Linked List](https://towardsdev.com/linked-list-7b58728b740a?source=rss-505ef1b70e94------2)
 - [Open Street Map &lpar;OSM&rpar; with React and get the current location](https://towardsdev.com/open-street-map-osm-with-react-and-get-the-current-location-c2c80408b1bb?source=rss-505ef1b70e94------2)
