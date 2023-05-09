@@ -18,7 +18,7 @@
 - [Firebase Auth with React: Implement Email/Password and Google Sign-in](https://blog.bitsrc.io/firebase-authentication-with-react-for-beginners-implementing-email-password-and-google-sign-in-e62d9094e22?source=rss-505ef1b70e94------2)
 - [Step-by-Step Guide to Fetch JIRA API Issues Using Postman](https://towardsdev.com/step-by-step-guide-to-fetch-jira-api-issues-using-postman-e96ba74fabc9?source=rss-505ef1b70e94------2)
 - [How to Display a List of GitHub Commit Messages and Contributor Commit Graph in a React App](https://blog.bitsrc.io/how-to-display-a-list-of-github-commit-messages-and-contributor-commit-graph-in-a-react-app-92a78284447f?source=rss-505ef1b70e94------2)
-- [ChartJS in React](https://blog.bitsrc.io/chartjs-in-react-dbc185263321?source=rss-505ef1b70e94------2)
+- [ChartJS in React](https://medium.com/@matheshyogeswaran/chartjs-in-react-dbc185263321?source=rss-505ef1b70e94------2)
 - [Linked List](https://towardsdev.com/linked-list-7b58728b740a?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
