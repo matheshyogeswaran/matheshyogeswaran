@@ -19,7 +19,7 @@
 - [Demystifying Deployment: A Step-by-Step Guide to Deploying Your MERN Stack App on Render](https://medium.com/linkit-intecs/demystifying-deployment-a-step-by-step-guide-to-deploying-your-mern-stack-app-on-render-86cbf76661d0?source=rss-505ef1b70e94------2)
 - [Building Real-Time Applications with Socket.io,](https://medium.com/linkit-intecs/building-real-time-applications-with-socket-io-adc86da2f9f1?source=rss-505ef1b70e94------2)
 - [Building a Selenium 4 — Cucumber Hybrid Framework with Spring Tool Suite: A Step-by-Step Guide…](https://medium.com/@matheshyogeswaran/building-a-selenium-4-cucumber-hybrid-framework-with-spring-tool-suite-a-step-by-step-guide-a9d0b1afec4?source=rss-505ef1b70e94------2)
-- [Effortlessly Fetch and Store Jira Issues in MongoDB Using Node.js and Express](https://medium.com/@matheshyogeswaran/effortlessly-fetch-and-store-jira-issues-in-mongodb-using-node-js-and-express-243cd45f063b?source=rss-505ef1b70e94------2)
+- [Effortlessly Fetch and Store Jira Issues in MongoDB Using Node.js and Express](https://blog.bitsrc.io/effortlessly-fetch-and-store-jira-issues-in-mongodb-using-node-js-and-express-243cd45f063b?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 
