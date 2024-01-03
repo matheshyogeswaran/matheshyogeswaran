@@ -15,7 +15,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Inside My Intern Software Engineering Tech Interview](https://medium.com/@matheshyogeswaran/inside-my-intern-software-engineering-tech-interview-089455d416ff?source=rss-505ef1b70e94------2)
+- [Inside My Intern Software Engineering Tech Interview](https://blog.bitsrc.io/inside-my-intern-software-engineering-tech-interview-089455d416ff?source=rss-505ef1b70e94------2)
 - [Getting Started with CRUD Operations in Spring Boot and MySQL: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-mysql-a-beginners-guide-756fd5b861d0?source=rss-505ef1b70e94------2)
 - [Getting Started with CRUD Operations in Spring Boot and DynamoDB: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-dynamodb-a-beginners-guide-75ecad3b0452?source=rss-505ef1b70e94------2)
 - [Demystifying Deployment: A Step-by-Step Guide to Deploying Your MERN Stack App on Render](https://medium.com/linkit-intecs/demystifying-deployment-a-step-by-step-guide-to-deploying-your-mern-stack-app-on-render-86cbf76661d0?source=rss-505ef1b70e94------2)
