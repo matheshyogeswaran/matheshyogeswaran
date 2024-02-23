@@ -15,7 +15,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building Authentication in React Native with Firebase: A Step-by-Step Guide](https://medium.com/@matheshyogeswaran/building-authentication-in-react-native-with-firebase-a-step-by-step-guide-0b2a42d66a50?source=rss-505ef1b70e94------2)
+- [Building Authentication in React Native with Firebase: A Step-by-Step Guide](https://blog.bitsrc.io/building-authentication-in-react-native-with-firebase-a-step-by-step-guide-0b2a42d66a50?source=rss-505ef1b70e94------2)
 - [Inside My Intern Software Engineering Tech Interview](https://blog.bitsrc.io/inside-my-intern-software-engineering-tech-interview-089455d416ff?source=rss-505ef1b70e94------2)
 - [Getting Started with CRUD Operations in Spring Boot and MySQL: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-mysql-a-beginners-guide-756fd5b861d0?source=rss-505ef1b70e94------2)
 - [Getting Started with CRUD Operations in Spring Boot and DynamoDB: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-dynamodb-a-beginners-guide-75ecad3b0452?source=rss-505ef1b70e94------2)
