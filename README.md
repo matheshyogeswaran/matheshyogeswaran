@@ -25,6 +25,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/mathesh-yogeswaran-442733196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mathesh-yogeswaran-442733196/" height="30" width="40" /></a>
-<a href="https://medium.com/@matheshyogeswaran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@matheshyogeswaran" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mathesh-yogeswaran-442733196/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://medium.com/@matheshyogeswaran" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
+  </a>
+  <a href="https://mathesh.me/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" />
+  </a>
 </p>
+
