@@ -32,4 +32,3 @@
   </a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=matheshyogeswaran&color=blue)
