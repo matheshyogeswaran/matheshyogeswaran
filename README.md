@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mathesh Yogeswaran</h1>
-<h3 align="center">Mathesh is undergraduate of university of moratuwa. Who is enthusiastic person to learn IT related things.</h3>
-<!--
-<img aligh="center" width="45%" src="https://github-readme-stats.vercel.app/api?username=matheshyogeswaran&show_icons=true&theme=radical" />
-<img aligh="center" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheshyogeswaran&layout=compact" /> -->
+<h3 align="center">Mathesh is an undergraduate of the University of Moratuwa. He is an enthusiastic person eager to learn IT-related things.</h3>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -22,7 +19,6 @@
 - [Getting Started with CRUD Operations in Spring Boot and DynamoDB: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-dynamodb-a-beginners-guide-75ecad3b0452?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/mathesh-yogeswaran-442733196/" target="_blank">
@@ -36,3 +32,4 @@
   </a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=matheshyogeswaran&color=blue)
