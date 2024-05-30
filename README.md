@@ -12,9 +12,9 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Mistake in React: Not Using the Functional Version of useState](https://medium.com/@matheshyogeswaran/beginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532?source=rss-505ef1b70e94------2)
-- [Understanding UDP Protocol: When and How to Use It](https://medium.com/@matheshyogeswaran/understanding-udp-protocol-when-and-how-to-use-it-0309ebe51ee9?source=rss-505ef1b70e94------2)
-- [Building Authentication in React Native with Firebase: A Step-by-Step Guide](https://blog.bitsrc.io/building-authentication-in-react-native-with-firebase-a-step-by-step-guide-0b2a42d66a50?source=rss-505ef1b70e94------2)
+- [Beginner Mistake in React: Not Using the Functional Version of useState](https://blog.bitsrc.io/beginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532?source=rss-505ef1b70e94------2)
+- [Understanding UDP Protocol: When and How to Use It](https://towardsdev.com/understanding-udp-protocol-when-and-how-to-use-it-0309ebe51ee9?source=rss-505ef1b70e94------2)
+- [Building Authentication in React Native with Firebase: A Step-by-Step Guide](https://towardsdev.com/building-authentication-in-react-native-with-firebase-a-step-by-step-guide-0b2a42d66a50?source=rss-505ef1b70e94------2)
 - [Inside My Intern Software Engineering Tech Interview](https://blog.bitsrc.io/inside-my-intern-software-engineering-tech-interview-089455d416ff?source=rss-505ef1b70e94------2)
 - [Getting Started with CRUD Operations in Spring Boot and MySQL: A Beginner’s Guide](https://medium.com/linkit-intecs/getting-started-with-crud-operations-in-spring-boot-and-mysql-a-beginners-guide-756fd5b861d0?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
