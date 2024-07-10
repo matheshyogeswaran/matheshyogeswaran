@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Firebase Functions](https://medium.com/@matheshyogeswaran/getting-started-with-firebase-functions-bdf292d87893?source=rss-505ef1b70e94------2)
 - [Setting Up AWS Cognito Authorizer for API: A Step-by-Step Guide](https://medium.com/@matheshyogeswaran/setting-up-aws-cognito-authorizer-for-api-a-step-by-step-guide-b519afa51f09?source=rss-505ef1b70e94------2)
 - [Beginner Mistake in React: Not Using the Functional Version of useState](https://blog.bitsrc.io/beginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532?source=rss-505ef1b70e94------2)
 - [Understanding UDP Protocol: When and How to Use It](https://towardsdev.com/understanding-udp-protocol-when-and-how-to-use-it-0309ebe51ee9?source=rss-505ef1b70e94------2)
 - [Building Authentication in React Native with Firebase: A Step-by-Step Guide](https://towardsdev.com/building-authentication-in-react-native-with-firebase-a-step-by-step-guide-0b2a42d66a50?source=rss-505ef1b70e94------2)
-- [Inside My Intern Software Engineering Tech Interview](https://blog.bitsrc.io/inside-my-intern-software-engineering-tech-interview-089455d416ff?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
