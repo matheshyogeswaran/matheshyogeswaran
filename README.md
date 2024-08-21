@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an APK in React Native with Windows](https://medium.com/@matheshyogeswaran/build-an-apk-in-react-native-with-windows-86532342f53d?source=rss-505ef1b70e94------2)
 - [Using the Context API to Manage User Authentication State in React Native](https://blog.bitsrc.io/using-the-context-api-to-manage-user-authentication-state-in-react-native-3499006d7280?source=rss-505ef1b70e94------2)
 - [Integrate Google AdMob with a React Native CLI App](https://blog.bitsrc.io/integrate-google-admob-with-a-react-native-cli-app-1595d32e48c8?source=rss-505ef1b70e94------2)
 - [Getting Started with Firebase Functions](https://towardsdev.com/getting-started-with-firebase-functions-bdf292d87893?source=rss-505ef1b70e94------2)
 - [Setting Up AWS Cognito Authorizer for API: A Step-by-Step Guide](https://blog.bitsrc.io/setting-up-aws-cognito-authorizer-for-api-a-step-by-step-guide-b519afa51f09?source=rss-505ef1b70e94------2)
-- [Beginner Mistake in React: Not Using the Functional Version of useState](https://blog.bitsrc.io/beginner-mistake-in-react-not-using-the-functional-version-of-usestate-0f8b429ea532?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
