@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Chatbot with Gemini API in Just 5 Minutes!](https://medium.com/@matheshyogeswaran/build-a-chatbot-with-gemini-api-in-just-5-minutes-3875112f80f4?source=rss-505ef1b70e94------2)
 - [JavaScript Mock Interview Q&amp;A |Coding Round|](https://javascript.plainenglish.io/javascript-mock-interview-q-a-coding-round-4922871c4377?source=rss-505ef1b70e94------2)
 - [Build an APK in React Native with Windows](https://blog.bitsrc.io/build-an-apk-in-react-native-with-windows-86532342f53d?source=rss-505ef1b70e94------2)
 - [Using the Context API to Manage User Authentication State in React Native](https://blog.bitsrc.io/using-the-context-api-to-manage-user-authentication-state-in-react-native-3499006d7280?source=rss-505ef1b70e94------2)
 - [Integrate Google AdMob with a React Native CLI App](https://medium.com/linkit-intecs/integrate-google-admob-with-a-react-native-cli-app-1595d32e48c8?source=rss-505ef1b70e94------2)
-- [Getting Started with Firebase Functions](https://towardsdev.com/getting-started-with-firebase-functions-bdf292d87893?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
