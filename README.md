@@ -12,7 +12,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: What, Why, When, and How](https://medium.com/@matheshyogeswaran/understanding-higher-order-components-hocs-in-react-what-why-when-and-how-f4298688a5bb?source=rss-505ef1b70e94------2)
+- [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: What, Why, When, and How](https://javascript.plainenglish.io/understanding-higher-order-components-hocs-in-react-what-why-when-and-how-f4298688a5bb?source=rss-505ef1b70e94------2)
 - [Build a Chatbot with Gemini API in Just 5 Minutes!](https://blog.bitsrc.io/build-a-chatbot-with-gemini-api-in-just-5-minutes-3875112f80f4?source=rss-505ef1b70e94------2)
 - [JavaScript Mock Interview Q&amp;A |Coding Round](https://javascript.plainenglish.io/javascript-mock-interview-q-a-coding-round-4922871c4377?source=rss-505ef1b70e94------2)
 - [Build an APK in React Native with Windows](https://blog.bitsrc.io/build-an-apk-in-react-native-with-windows-86532342f53d?source=rss-505ef1b70e94------2)
