@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Naming Conventions in React: Best Practices for Clean Code](https://medium.com/@matheshyogeswaran/naming-conventions-in-react-best-practices-for-clean-code-a67d7e8eb0e8?source=rss-505ef1b70e94------2)
 - [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: What, Why, When, and How](https://javascript.plainenglish.io/understanding-higher-order-components-hocs-in-react-what-why-when-and-how-f4298688a5bb?source=rss-505ef1b70e94------2)
 - [Build a Chatbot with Gemini API in Just 5 Minutes!](https://blog.bitsrc.io/build-a-chatbot-with-gemini-api-in-just-5-minutes-3875112f80f4?source=rss-505ef1b70e94------2)
 - [JavaScript Mock Interview Q&amp;A |Coding Round](https://javascript.plainenglish.io/javascript-mock-interview-q-a-coding-round-4922871c4377?source=rss-505ef1b70e94------2)
 - [Build an APK in React Native with Windows](https://blog.bitsrc.io/build-an-apk-in-react-native-with-windows-86532342f53d?source=rss-505ef1b70e94------2)
-- [Using the Context API to Manage User Authentication State in React Native](https://blog.bitsrc.io/using-the-context-api-to-manage-user-authentication-state-in-react-native-3499006d7280?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
