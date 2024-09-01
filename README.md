@@ -12,7 +12,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Naming Conventions in React: Best Practices for Clean Code](https://medium.com/@matheshyogeswaran/naming-conventions-in-react-best-practices-for-clean-code-a67d7e8eb0e8?source=rss-505ef1b70e94------2)
+- [Naming Conventions in React: Best Practices for Clean Code](https://javascript.plainenglish.io/naming-conventions-in-react-best-practices-for-clean-code-a67d7e8eb0e8?source=rss-505ef1b70e94------2)
 - [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: What, Why, When, and How](https://javascript.plainenglish.io/understanding-higher-order-components-hocs-in-react-what-why-when-and-how-f4298688a5bb?source=rss-505ef1b70e94------2)
 - [Build a Chatbot with Gemini API in Just 5 Minutes!](https://blog.bitsrc.io/build-a-chatbot-with-gemini-api-in-just-5-minutes-3875112f80f4?source=rss-505ef1b70e94------2)
 - [JavaScript Mock Interview Q&amp;A |Coding Round](https://javascript.plainenglish.io/javascript-mock-interview-q-a-coding-round-4922871c4377?source=rss-505ef1b70e94------2)
