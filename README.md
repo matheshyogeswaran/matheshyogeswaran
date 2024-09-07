@@ -12,12 +12,12 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Code Splitting in React: Learn with an Example](https://medium.com/@matheshyogeswaran/code-splitting-in-react-learn-with-an-example-763408948675?source=rss-505ef1b70e94------2)
 - [HOW TO BECOME
 A PEOPLE MAGNET — Key Points &lpar;Part1&rpar;](https://medium.com/@matheshyogeswaran/how-to-become-a-people-magnet-key-points-part1-22ff56c03b9e?source=rss-505ef1b70e94------2)
 - [Redux for React: A Practical Tutorial with Example](https://javascript.plainenglish.io/redux-for-react-a-practical-tutorial-with-example-8969a6bf5c29?source=rss-505ef1b70e94------2)
 - [Naming Conventions in React: Best Practices for Clean Code](https://javascript.plainenglish.io/naming-conventions-in-react-best-practices-for-clean-code-a67d7e8eb0e8?source=rss-505ef1b70e94------2)
 - [Understanding Higher-Order Components &lpar;HOCs&rpar; in React: What, Why, When, and How](https://javascript.plainenglish.io/understanding-higher-order-components-hocs-in-react-what-why-when-and-how-f4298688a5bb?source=rss-505ef1b70e94------2)
-- [Build a Chatbot with Gemini API in Just 5 Minutes!](https://blog.bitsrc.io/build-a-chatbot-with-gemini-api-in-just-5-minutes-3875112f80f4?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
