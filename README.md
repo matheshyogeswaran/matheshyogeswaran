@@ -12,7 +12,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Code Splitting in React: Learn with an Example](https://medium.com/@matheshyogeswaran/code-splitting-in-react-learn-with-an-example-763408948675?source=rss-505ef1b70e94------2)
+- [Code Splitting in React: Learn with an Example](https://javascript.plainenglish.io/code-splitting-in-react-learn-with-an-example-763408948675?source=rss-505ef1b70e94------2)
 - [HOW TO BECOME
 A PEOPLE MAGNET — Key Points &lpar;Part1&rpar;](https://medium.com/@matheshyogeswaran/how-to-become-a-people-magnet-key-points-part1-22ff56c03b9e?source=rss-505ef1b70e94------2)
 - [Redux for React: A Practical Tutorial with Example](https://javascript.plainenglish.io/redux-for-react-a-practical-tutorial-with-example-8969a6bf5c29?source=rss-505ef1b70e94------2)
