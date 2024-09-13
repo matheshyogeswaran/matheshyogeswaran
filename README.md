@@ -12,7 +12,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Utilizing AWS for Mobile App Development: Top Services We Use](https://medium.com/@matheshyogeswaran/utilizing-aws-for-mobile-app-development-top-services-we-use-d758b9a78c63?source=rss-505ef1b70e94------2)
+- [Utilizing AWS for Mobile App Development: Top Services We Use](https://aws.plainenglish.io/utilizing-aws-for-mobile-app-development-top-services-we-use-d758b9a78c63?source=rss-505ef1b70e94------2)
 - [Code Splitting in React: Learn with an Example](https://javascript.plainenglish.io/code-splitting-in-react-learn-with-an-example-763408948675?source=rss-505ef1b70e94------2)
 - [HOW TO BECOME
 A PEOPLE MAGNET — Key Points &lpar;Part1&rpar;](https://medium.com/@matheshyogeswaran/how-to-become-a-people-magnet-key-points-part1-22ff56c03b9e?source=rss-505ef1b70e94------2)
