@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Integrate Google AdMob with a React Native CLI App: Interstitial Ads with Example](https://matheshyogeswaran.medium.com/integrate-google-admob-with-a-react-native-cli-app-interstitial-ads-with-example-1317717a7e84?source=rss-505ef1b70e94------2)
 - [Beginner’s Guide: Build a Movie Recommender in Python with Google Colab and Create an API Using…](https://matheshyogeswaran.medium.com/beginners-guide-build-a-movie-recommender-in-python-with-google-colab-and-create-an-api-using-9803f7a623e0?source=rss-505ef1b70e94------2)
 - [Server-Side Rendering &lpar;SSR&rpar; vs Client-Side Rendering &lpar;CSR&rpar;: Understanding the Differences](https://medium.com/linkit-intecs/server-side-rendering-ssr-vs-client-side-rendering-csr-understanding-the-differences-6e82a1beff12?source=rss-505ef1b70e94------2)
 - [Understanding the Virtual DOM in React](https://javascript.plainenglish.io/understanding-the-virtual-dom-in-react-bb3ae006da80?source=rss-505ef1b70e94------2)
 - [Utilizing AWS for Mobile App Development: Top Services We Use](https://aws.plainenglish.io/utilizing-aws-for-mobile-app-development-top-services-we-use-d758b9a78c63?source=rss-505ef1b70e94------2)
-- [Code Splitting in React: Learn with an Example](https://javascript.plainenglish.io/code-splitting-in-react-learn-with-an-example-763408948675?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
