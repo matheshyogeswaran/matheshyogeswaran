@@ -27,7 +27,7 @@
   <a href="https://medium.com/@matheshyogeswaran" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" />
   </a>
-  <a href="https://matheshy.onrender.com" target="_blank">
+  <a href="https://www.mathesh.live" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Website" height="30" width="40" />
   </a>
 </p>
