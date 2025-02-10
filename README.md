@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Pagination in React: A Step-by-Step Guide for Machine Coding Round](https://javascript.plainenglish.io/mastering-pagination-in-react-a-step-by-step-guide-for-machine-coding-round-50d8e359947d?source=rss-505ef1b70e94------2)
 - [React Native Navigation: When and Where to Use Each Method?](https://javascript.plainenglish.io/react-native-navigation-when-and-where-to-use-each-method-45764b7c144c?source=rss-505ef1b70e94------2)
 - [Building a GIS-Powered Parking Management System with Streamlit](https://matheshyogeswaran.medium.com/building-a-gis-powered-parking-management-system-with-streamlit-830b1884fc60?source=rss-505ef1b70e94------2)
 - [Integrate Google AdMob with a React Native CLI App: Interstitial Ads with Example](https://javascript.plainenglish.io/integrate-google-admob-with-a-react-native-cli-app-interstitial-ads-with-example-1317717a7e84?source=rss-505ef1b70e94------2)
 - [Beginner’s Guide: Build a Movie Recommender in Python with Google Colab and Create an API Using…](https://ai.plainenglish.io/beginners-guide-build-a-movie-recommender-in-python-with-google-colab-and-create-an-api-using-9803f7a623e0?source=rss-505ef1b70e94------2)
-- [Server-Side Rendering &lpar;SSR&rpar; vs Client-Side Rendering &lpar;CSR&rpar;: Understanding the Differences](https://javascript.plainenglish.io/server-side-rendering-ssr-vs-client-side-rendering-csr-understanding-the-differences-6e82a1beff12?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
