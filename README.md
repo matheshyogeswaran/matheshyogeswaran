@@ -12,11 +12,11 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Securing APIs with Amazon Cognito Across Multiple AWS Environments](https://matheshyogeswaran.medium.com/securing-apis-with-amazon-cognito-across-multiple-aws-environments-65b77953cfdc?source=rss-505ef1b70e94------2)
 - [AWS Cognito Tokens](https://matheshyogeswaran.medium.com/aws-cognito-tokens-3b89313b5859?source=rss-505ef1b70e94------2)
 - [Mastering Pagination in React: A Step-by-Step Guide for Machine Coding Round](https://javascript.plainenglish.io/mastering-pagination-in-react-a-step-by-step-guide-for-machine-coding-round-50d8e359947d?source=rss-505ef1b70e94------2)
 - [React Native Navigation: When and Where to Use Each Method?](https://javascript.plainenglish.io/react-native-navigation-when-and-where-to-use-each-method-45764b7c144c?source=rss-505ef1b70e94------2)
 - [Building a GIS-Powered Parking Management System with Streamlit](https://matheshyogeswaran.medium.com/building-a-gis-powered-parking-management-system-with-streamlit-830b1884fc60?source=rss-505ef1b70e94------2)
-- [Integrate Google AdMob with a React Native CLI App: Interstitial Ads with Example](https://javascript.plainenglish.io/integrate-google-admob-with-a-react-native-cli-app-interstitial-ads-with-example-1317717a7e84?source=rss-505ef1b70e94------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
