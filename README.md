@@ -12,7 +12,7 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [How I Uploaded a New AAB File After Losing My Keystore](https://matheshyogeswaran.medium.com/how-i-uploaded-a-new-aab-file-after-losing-my-keystore-6cce06760fa8?source=rss-505ef1b70e94------2)
+- [How I Uploaded a New AAB File After Losing My Keystore](https://blog.stackademic.com/how-i-uploaded-a-new-aab-file-after-losing-my-keystore-6cce06760fa8?source=rss-505ef1b70e94------2)
 - [Securing APIs with Amazon Cognito Across Multiple AWS Environments](https://aws.plainenglish.io/securing-apis-with-amazon-cognito-across-multiple-aws-environments-65b77953cfdc?source=rss-505ef1b70e94------2)
 - [AWS Cognito Tokens](https://aws.plainenglish.io/aws-cognito-tokens-3b89313b5859?source=rss-505ef1b70e94------2)
 - [Mastering Pagination in React: A Step-by-Step Guide for Machine Coding Round](https://javascript.plainenglish.io/mastering-pagination-in-react-a-step-by-step-guide-for-machine-coding-round-50d8e359947d?source=rss-505ef1b70e94------2)
